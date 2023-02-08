@@ -1,0 +1,8 @@
+h1{text-align: left; color: #000080; font-family: Verdana}
+p{text-align: left; color: #0000FF; font-family: Verdana; font-size: 10pt; font-weight: bold}
+tr.text{text-align: left; color: #0000FF; font-family: Verdana; font-size: 10pt}
+td.desc{background: #FFE4E1}
+td{width: 30pt; height: 30pt}
+body{background-color: #E6E6FA}
+a:link{color: #0000FF; text-decoration: none}
+a:hover{color: #ff0000; text-decoration: underline}

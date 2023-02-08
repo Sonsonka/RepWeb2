@@ -1,0 +1,12 @@
+h1{text-align: left; color: #000080; font-family: Verdana}
+h4{text-align: left; color: #000080; font-family: Verdana}
+tr.btext{text-align: left; background: #87CEFA; color: #000080; font-family: Verdana; font-size: 10pt}
+tr.text{text-align: left; color: #000080; font-family: Verdana; font-size: 10pt}
+ul{text-align: left; color: #008080; font-family: Verdana; font-size: 10pt; font-weight: bold}
+tr.bactext{text-align: left; background: #E6E6FA; color: #000000; font-family: Verdana; font-size: 10pt; font-weight: bold}
+p{text-align: left; font-family: Verdana; font-size: 10pt}
+p.back{text-align: left; color: #008080; font-family: Verdana; font-size: 10pt; font-weight: bold}
+ul.menu{text-align: left; color: #008080; font-family: Verdana; font-size: 10pt; font-weight: bold; list-style-type: none}
+a:link{color:#008080; text-decoration: none}
+a:visited{color:#008080; text-decoration: none}
+a:hover{color:#FF9933; text-decoration: underline}
